@@ -27,9 +27,9 @@ Open your browser and navigate to `http://localhost:8000`. You can upload a fina
 
 ## Live API Endpoint
 
-You can access and test the API directly at the following endpoint:
+You can access and test the API directly at the following link:
 
-[saiphanidharreddy.onthewifi.com](http://saiphanidharreddy.onthewifi.com)
+[saiphanidharreddy.onthewifi.com](https://saiphanidharreddy.onthewifi.com)
 
 ---
 
